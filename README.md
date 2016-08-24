@@ -4,7 +4,7 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 ---
 ### Ready made
 > Companies who sell eboards
-* [Boosted Boards](https://boostedboards.com/)
+* [Boosted Boards](https://boostedboards.com/){:target="_blank"}
 * [Mellow Boards](http://www.mellowboards.com/)
 * [Trampa] (http://www.trampaboards.com/electric-boards-library-c-442.html?all=1)
 * [Bolt] (http://www.boltmotion.com/)
