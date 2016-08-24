@@ -4,7 +4,7 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 ---
 ### Ready made
 > Companies who sell eboards
-* [Boosted Boards](https://boostedboards.com/){:target="_blank"}
+* [Boosted Boards](https://boostedboards.com/)
 * [Mellow Boards](http://www.mellowboards.com/)
 * [Trampa] (http://www.trampaboards.com/electric-boards-library-c-442.html?all=1)
 * [Bolt] (http://www.boltmotion.com/)
@@ -22,12 +22,15 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 
 ### DIY
 > DIY Resources to make your own eboard
-* [eSk8 Builders] (http://www.electric-skateboard.builders/)
-* [DIYElectric Skateboard] (http://diyelectricskateboard.com/)
+* [eSk8 Builders Community] (http://www.electric-skateboard.builders/)
+* [How To Guide] (http://howtomakeanelectricskateboard.com/)
 
-### Buy Parts
+### Buy Parts & Kits
 > Online stores where you can buy parts
 * [Enertion Boards] (http://www.enertionboards.com/)
+* [DIYElectric Skateboard] (http://diyelectricskateboard.com/)
 * [Ollin Board] (http://www.ollinboardcompany.com/)
 * [Trampa] (http://www.trampaboards.com/motor-mount-kits-c-627.html?all=1)
-
+* [Scram ] (https://www.scramboards.com)
+* [Alien Drive] (http://aliendrivesystems.com/)
+* [CarvOn] (http://www.carvonskates.com/)
