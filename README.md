@@ -18,14 +18,16 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 * [Leif] (http://www.leiftech.com/product/leif/)
 * [Yuneec] (https://www.amazon.com/Yuneec-YUNEGOCR001-Cruiser-Electric-Skateboard/dp/B00M0XTXIA/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=digitren08-in-cont-20&linkId=1f717309a8b9464630c076b7f4d2dd3d)
 * [STARY Board] (http://stary-board.myshopify.com/products/stary-board)
-
+* [Lecdec] (https://www.lecdec.com/)
+* [Magneto] (https://magnetoelectricskateboard.com)
+* [Metro board] (http://metro-board.com/product-category/slim-electric-longboards/)
 
 ### DIY
 > DIY Resources to make your own eboard
 * [eSk8 Builders Community] (http://www.electric-skateboard.builders/)
 * [How To Guide] (http://howtomakeanelectricskateboard.com/)
 
-### Buy Parts & Kits
+### Parts & Kits
 > Online stores where you can buy parts
 * [Enertion Boards] (http://www.enertionboards.com/)
 * [DIYElectric Skateboard] (http://diyelectricskateboard.com/)
@@ -34,3 +36,4 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 * [Scram ] (https://www.scramboards.com)
 * [Alien Drive] (http://aliendrivesystems.com/)
 * [CarvOn] (http://www.carvonskates.com/)
+* [esk8.de] (http://esk8.de/)
