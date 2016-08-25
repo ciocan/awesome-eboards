@@ -27,6 +27,7 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 * [eSk8 Builders Community] (http://www.electric-skateboard.builders/)
 * [How To Guide] (http://howtomakeanelectricskateboard.com/)
 * [Mason Daugherty's electric longboard project] (https://diyelectriclongboard.blogspot.co.uk/)
+* [E-TOXX] (http://www.e-toxx.com/)
 
 ### Parts & Kits
 > Online stores where you can buy parts
