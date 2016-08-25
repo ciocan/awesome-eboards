@@ -26,6 +26,7 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 > DIY Resources to make your own eboard
 * [eSk8 Builders Community] (http://www.electric-skateboard.builders/)
 * [How To Guide] (http://howtomakeanelectricskateboard.com/)
+* [Mason Daugherty's electric longboard project] (https://diyelectriclongboard.blogspot.co.uk/)
 
 ### Parts & Kits
 > Online stores where you can buy parts
@@ -38,3 +39,4 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 * [CarvOn] (http://www.carvonskates.com/)
 * [esk8.de] (http://esk8.de/)
 * [Psychotiller] (http://psychotiller.com/)
+* [eSk8 Market] (https://electric-skateboard.market/)
