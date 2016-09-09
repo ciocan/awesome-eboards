@@ -6,6 +6,7 @@ A collection of awesome things regarding Electric Skateboards, Longboards and Mo
 > Companies who sell eboards
 * [Boosted Boards](https://boostedboards.com/)
 * [Mellow Boards](http://www.mellowboards.com/)
+* [EON](http://www.unlimited.engineering/)
 * [Trampa] (http://www.trampaboards.com/electric-boards-library-c-442.html?all=1)
 * [Bolt] (http://www.boltmotion.com/)
 * [Marbel] (http://ridemarbel.com/)
